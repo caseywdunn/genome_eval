@@ -2,8 +2,7 @@
 
 set -e
 
-export AGALMA_DB="/gpfs/data/cdunn/analyses/genomes2016_DEBpreproposal.sqlite
-export BIOLITE_RESOURCES="outdir=/gpfs/data/cdunn/analyses/genomes2016_DEBpreproposal
+export AGALMA_DB="/gpfs/data/cdunn/analyses/genomes2016_DEBpreproposal.sqlite"
 
 agalma catalog insert --id "Monosiga" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Monosiga_brevicollis_1_proteins.faa --species "Monosiga brevicollis" 
 agalma catalog insert --id "Salpinfoeca" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Salpingoeca_rosetta_1_proteins.faa --species "Salpinfoeca rosetta"
