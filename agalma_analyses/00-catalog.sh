@@ -23,7 +23,7 @@ agalma catalog insert --id "Takifugu" --paths /gpfs/data/cdunn/sequences/public/
 agalma catalog insert --id "Xenopus" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Xenopus_tropicalis_4_proteins.faa --species "Xenopus tropicalis"
 agalma catalog insert --id "Anolis" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Anolis_carolinensis_2_pep.faa --species "Anolis carolinensis"    
 agalma catalog insert --id "Taeniopygia" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Taeniopygia_guttata_324_proteins.faa --species "Taeniopygia guttata"
-agalma catalog insert --id "Homo" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Homo_sapiens_38_proteins.all.faa --species "Homo sapiens"
+agalma catalog insert --id "Homo" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Homo_sapiens_ccds_proteins_20150512.faa --species "Homo sapiens"
 agalma catalog insert --id "Tribolium" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Tribolium_castaneum_3_proteins.faa --species "Tribolium castaneum"
 agalma catalog insert --id "Daphnia" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Daphnia_pulex_1_1_proteins.faa --species "Daphnia pulex"
 agalma catalog insert --id "Ixodes" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Ixodes_scapularis_1_4_proteins.faa --species "Ixodes scapularis"
