@@ -24,7 +24,7 @@ agalma import --id "Takifugu" --seq_type aa
 agalma import --id "Xenopus" --seq_type aa
 agalma import --id "Anolis" --seq_type aa
 agalma import --id "Taeniopygia" --seq_type aa
-agalma import --id "Homo" --seq_type aa
+agalma import --id "Canis" --seq_type aa
 agalma import --id "Tribolium" --seq_type aa
 agalma import --id "Daphnia" --seq_type aa
 agalma import --id "Ixodes" --seq_type aa

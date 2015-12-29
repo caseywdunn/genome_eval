@@ -1,6 +1,6 @@
 #!/bin/sh
 #SBATCH -J annotate
-#SBATCH -t 12:00:00
+#SBATCH -t 24:00:00
 #SBATCH -c 8
 #SBATCH --mem=20G
 #SBATCH -C intel
@@ -32,7 +32,7 @@ Takifugu
 Xenopus
 Anolis
 Taeniopygia
-Homo
+Canis
 Tribolium
 Daphnia
 Ixodes
