@@ -1,7 +1,7 @@
 #!/bin/sh
 #SBATCH -J genetree
-#SBATCH -t 7-00:00:00
-#SBATCH -N 8
+#SBATCH -t 3-00:00:00
+#SBATCH -N 4
 #SBATCH -c 16
 #SBATCH --mem=60g
 #SBATCH -C intel
@@ -22,3 +22,7 @@ ID=ExpressionTree
 agalma homologize --id $ID $IMPORT_IDS --genome_type any --molecule_type any
 agalma multalign --id $ID
 agalma genetree --id $ID
+agalma treeprune --id $ID
+agalma multalign --id $ID
+agalma supermatrix --id $ID
+agalma supermatrix --id $ID --proportion 0.95
