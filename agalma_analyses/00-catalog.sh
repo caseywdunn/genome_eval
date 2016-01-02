@@ -30,6 +30,8 @@ agalma catalog insert --id "Tetranychus" --paths /gpfs/data/cdunn/sequences/publ
 agalma catalog insert --id "Lottia" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Lottia_gigantea_1_proteins.faa --species "Lottia gigantea"
 agalma catalog insert --id "Octopus" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Octopus_bimaculoides_2_proteins.faa --species "Octopus bimaculoides"
 agalma catalog insert --id "Lingula" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Lingula_anatina_1_proteins.faa --species "Lingula anatina"
+agalma catalog insert --id "Schmidtea" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Schmidtea_mediterranea_4_proteins_all.faa --species "Schmidtea mediterranea"
+agalma catalog insert --id "Echinococcus" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Echinococcus_multilocularis_3_proteins.faa --species "Echinococcus multilocularis"
 agalma catalog insert --id "Pristionchus" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Pristionchus_pacificus_proteins.faa --species "Pristionchus pacificus"
 agalma catalog insert --id "Hypsibius" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Hypsibius_dujardini_2_3_1_proteins.faa --species "Hypsibius dujardini"
 agalma catalog insert --id "Capitella" --paths /gpfs/data/cdunn/sequences/public/animal_genomes/aa/Capitella_teleta_1_proteins.faa --species "Capitella teleta"
