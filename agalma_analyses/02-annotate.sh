@@ -5,7 +5,7 @@
 #SBATCH --mem=20G
 #SBATCH -C intel
 #SBATCH --exclusive
-#SBATCH --array=1-30
+#SBATCH --array=1-31
 
 set -e
 
@@ -35,7 +35,6 @@ Taeniopygia
 Canis
 Tribolium
 Daphnia
-Ixodes
 Lottia
 Octopus
 Lingula
@@ -43,6 +42,8 @@ Schmidtea
 Pristionchus
 Hypsibius
 Capitella
+Tetranychus
+Globodera
 )
 
 ID=${IDS[$SLURM_ARRAY_TASK_ID-1]}
