@@ -27,7 +27,6 @@ agalma import --id "Taeniopygia" --seq_type aa
 agalma import --id "Canis" --seq_type aa
 agalma import --id "Tribolium" --seq_type aa
 agalma import --id "Daphnia" --seq_type aa
-agalma import --id "Ixodes" --seq_type aa
 agalma import --id "Lottia" --seq_type aa
 agalma import --id "Octopus" --seq_type aa
 agalma import --id "Lingula" --seq_type aa
@@ -35,3 +34,5 @@ agalma import --id "Schmidtea" --seq_type aa
 agalma import --id "Pristionchus" --seq_type aa
 agalma import --id "Hypsibius" --seq_type aa
 agalma import --id "Capitella" --seq_type aa
+agalma import --id "Tetranychus" --seq_type aa
+agalma import --id "Globodera" --seq_type aa
